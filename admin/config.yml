@@ -8,7 +8,7 @@ backend:
 # publish_mode: editorial_workflow
 # show_preview_links: true
 display_url: https://chocolatedecadance.netlify.app
-logo_url: _________/uploads/editor.jpg
+logo_url: https://chocolatedecadance.netlify.app/uploads/editor.jpg
 
 # Do NOT edit below this line unless you want to change the home page
 
