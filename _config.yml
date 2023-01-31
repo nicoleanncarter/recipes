@@ -1,6 +1,6 @@
 
 # SITE CONFIGURATION
-url: "verdant-hamster-2e3806.netlify.app"   #change this to yours
+url: "https://verdant-hamster-2e3806.netlify.app/"   #change this to yours
 repository: nicoleanncarter/recipes
 title: Not sure yet 
 recipemenu: false # you can change to true and a menu of all recipes will appear
