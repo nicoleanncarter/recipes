@@ -2,12 +2,12 @@ backend:
   name: github
   repo: nicoleanncarter/recipes # Path to your GitHub repository
   branch: master # Branch to update (master by default)
-  site_domain: https://verdant-hamster-2e3806.netlify.app #Your site on netlify
+  site_domain: https://chocolatedecadance.netlify.app #Your site on netlify
   use_graphql: true
 
 # publish_mode: editorial_workflow
 # show_preview_links: true
-display_url: https://verdant-hamster-2e3806.netlify.app
+display_url: https://chocolatedecadance.netlify.app
 logo_url: _________/uploads/editor.jpg
 
 # Do NOT edit below this line unless you want to change the home page
