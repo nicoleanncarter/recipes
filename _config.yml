@@ -1,10 +1,10 @@
 
 # SITE CONFIGURATION
-url: "https://verdant-hamster-2e3806.netlify.app/"   #change this to yours
+url: "https://chocolatedecadance.netlify.app"   #change this to yours
 repository: nicoleanncarter/recipes
-title: Not sure yet 
+title: Chocolate Decadance
 recipemenu: false # you can change to true and a menu of all recipes will appear
-editbutton: false # you can navigate to edit your site by going to https://yoursite.netlify.app/admin
+editbutton: false # you can navigate to edit your site by going to https://chocolatedecadance.netlify.app/admin
 # change the above to true and an admin button will appear in your footer
 searchbutton: false # you can have a search feature by adding this button to the footer
 # change the above to true and a search button will appear in your footer
@@ -12,7 +12,7 @@ searchbutton: false # you can have a search feature by adding this button to the
 
 # change the following to your name or site name
 footer_text:
-  "Copyright 2023 My name or site"
+  "Copyright 2023 Nicole Ann Carter"
 
 # DO NOT EDIT BELOW THIS LINE
 
