@@ -1,8 +1,8 @@
 backend:
   name: github
-  repo: githubusername/yourrepositoryname # Path to your GitHub repository
+  repo: nicoleanncarter/recipes # Path to your GitHub repository
   branch: master # Branch to update (master by default)
-  site_domain: yoursite.netlify.app #Your site on netlify
+  site_domain: verdant-hamster-2e3806.netlify.app #Your site on netlify
   use_graphql: true
 
 # publish_mode: editorial_workflow
