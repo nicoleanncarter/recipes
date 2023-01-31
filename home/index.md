@@ -1,5 +1,5 @@
 ---
-title: Chocolate Decadance
+title: Chocolate Decadence
 coverimage: ../uploads/bookcover.jpg
 permalink: /
 layout: recipeshome
