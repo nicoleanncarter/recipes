@@ -1,6 +1,6 @@
 
 # SITE CONFIGURATION
-url: "https://chocolatedecadance.netlify.app"   #change this to yours
+url: "https://chocolatedecadance.netlify.app" #change this to yours
 repository: nicoleanncarter/recipes
 title: Chocolate Decadance
 recipemenu: false # you can change to true and a menu of all recipes will appear
