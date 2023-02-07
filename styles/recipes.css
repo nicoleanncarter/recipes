@@ -10,18 +10,17 @@
   box-sizing: border-box;
 }
 
-/* the rest is up to you */
-
 body {
 background-color: rgb(255, 248, 240);
 }
 
 h1  {
 color: rgb(46, 26, 17);
-margin-bottom: 12px;
+margin-bottom: 1cm;
+margin-top: 1cm;
 margin-left: 2cm;
 margin-right: 2cm;
-font-size:  100px;
+font-size:  60px;
 font-family:fantasy;
 text-align: center;
 }
@@ -33,7 +32,6 @@ h2  {
   margin-left: 0cm;
   margin-right: 2cm;
   font-family: fantasy;
-
   font-size:  40px;
   }
 
