@@ -1,4 +1,4 @@
- html {
+html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
@@ -10,29 +10,41 @@
   box-sizing: border-box;
 }
 
-body {
-background-color: rgb(255, 248, 240);
+main {
+  width: 100;
+  border: 1cm solid white;
 }
 
-h1  {
+body {
+background-color: white;
+}
+
+h1 {
+  text-align: left;
+  font-family: fantasy;
+  font-size: 20px;
+  color:rgb(46, 26, 17);
+  }  
+
+h2  {
 color: rgb(46, 26, 17);
 margin-bottom: 1cm;
 margin-top: 1cm;
 margin-left: 2cm;
 margin-right: 2cm;
-font-size:  60px;
+font-size:  20px;
 font-family: fantasy;
-text-align: center;
+text-align: left;
 }
 
-h2  {
+h3  {
   color: rgb(62, 35, 23);
   margin-bottom: 12px;
   margin-top: 12px;
   margin-left: 0cm;
   margin-right: 2cm;
   font-family: fantasy;
-  font-size:  40px;
+  font-size:  20px;
   }
 
 p {
@@ -55,11 +67,6 @@ columns: 2;
 li {
   margin-top: 5mm;
   margin-bottom: 5mm;
-}
-
-main {
-  width: 100;
-  border: 2.5cm solid white;
 }
 
 img {
