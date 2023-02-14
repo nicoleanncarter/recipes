@@ -11,8 +11,11 @@ html {
 }
 
 main {
-  width: 100;
-  border: 1cm solid white;
+  width: 80%;
+  max-width: 900px;
+  border: 2cm solid white;
+  margin: auto;
+  background-color: white;
 }
 
 body {
