@@ -1,46 +1,45 @@
 ---
-layout: recipe
-title: Some recipe
+title: Chocolate Mousse
 date: 2022-10-19
+order: 1
+layout: recipe
 published: true
-order: 2
 ---
 Aute velit minim ad ut deserunt ipsum eiusmod. Laborum nisi ex qui exercitation elit dolor consectetur. Ullamco ex eiusmod ad dolor nisi adipisicing est esse. Veniam nostrud do laboris id est nulla qui nulla. Lorem velit nulla in tempor nisi laboris. Dolor culpa mollit elit anim minim Lorem.
 
 ![Delicious Plate of Toast, Blueberries and Bananas, covered in sticky maple syrup](../uploads/joseph-gonzalez-zcUgjyqEwe8-unsplash.jpg "Photo by Joseph Smart")
 
-
 ## Ingredients
 
-- 1 kg something or something else
-- 160 ml something or something else
-- ½ large something or something else
-- 450 grams something or something else
-- 1 glass white wine 
-- 350 grams fresh something or something else,
-- 1400 grams something or something else, drained of some of their juice and chopped
-- teaspoon ground something or something else
-- teaspoon ground something or something else
-- salt and black pepper
-- 1 teaspoon oregano
-- 25 grams grated Parmesan, Kefalotiri, or Gruyere cheese
-- some chopped something
-- 80 grams something
-- 80 grams something else
-- 600 ml warm something
-- 2 egg yolks
-- 4 tablespoons toasted something or something else
+* 3 eggs 
+* 125g dark cooking chocolate , bittersweet / 70% cocoa 
+* 10g unsalted butter
+* 125 ml cream , full fat 
+* 35 g caster sugar (superfine white sugar)
+
 
 
 ## Method
 
-Occaecat nulla proident do aute non amet cillum et enim. Non in commodo consequat minim. Id excepteur adipisicing cillum minim Lorem anim est eiusmod incididunt. Consectetur nostrud pariatur amet enim dolore labore deserunt tempor magna fugiat dolor veniam anim. Ut ex sit ullamco ullamco magna aliqua cupidatat ullamco adipisicing tempor. Cupidatat fugiat in consectetur quis sunt laboris qui veniam sunt id deserunt minim.
+* For reliable results, work at a steady pace so your whipped egg whites and cream do not get too warm!
+* **Separate eggs and yolks** while eggs are cold. Place whites in a large bowl and yolks in a small bowl. Leave whites while you prepare other ingredients. (Note 4)
+* **Yolks:** Whisk yolks until uniform.
+* **Melt chocolate and butter:** Break chocolate into pieces and place in a microwave-proof bowl with the butter. Melt in the microwave in 30 second bursts, stirring in between, until smooth. (Stir in optional flavourings at this point, but read Note 6 first). Set aside to cool slightly while you proceed with other steps.
+* **Whip cream:** Beat cream until stiff peaks form, being careful not to over-whip (see video).
+* **Whip whites:** Add sugar. Beat whites until firm peaks form (see video, Note 5)
 
-Laborum dolore minim veniam excepteur aliquip aliqua mollit minim id exercitation ipsum. Quis sint qui enim labore amet irure culpa eiusmod ullamco amet minim aliquip ut eiusmod. Qui Lorem dolore labore esse reprehenderit cillum reprehenderit.
 
-Do elit laboris irure pariatur nostrud officia. Proident anim amet officia irure occaecat aliqua nisi ex. Non minim excepteur consectetur mollit aliquip ad occaecat est velit. Enim laboris mollit reprehenderit cupidatat voluptate ipsum aliquip nostrud deserunt amet. Qui aliquip deserunt commodo pariatur qui anim. Aliquip excepteur reprehenderit in sint enim Lorem non Lorem pariatur adipisicing dolore ullamco incididunt ullamco.
 
-Cupidatat nostrud excepteur sunt exercitation excepteur dolor adipisicing. Aliqua et commodo do duis fugiat non consequat duis. Esse velit velit sit aute voluptate exercitation cupidatat velit cupidatat duis culpa non duis deserunt. Non voluptate et ea incididunt elit irure eu irure ullamco ea Lorem tempor. Veniam sint irure reprehenderit mollit nisi amet fugiat nulla duis. Nulla nostrud sint reprehenderit est enim dolore ipsum. Sint eu anim excepteur consectetur ipsum.
+#### FOLD TOGETHER ALL INGREDIENTS:
 
-- Serves: 6
-- Preparation time: 1 hour
+* Fold egg yolks into cream using a rubber spatula – 8 folds max. Some streaks is fine.
+* **Check chocolate temperature:** The chocolate should still be runny but warm (min 35C / 95F; ideal 40C / 104F). If too cool or thick, microwave in burst of 5 seconds at a time until runny.
+* Pour chocolate into cream yolk mixture. Fold through – 8 folds max. Some streaks here are ok.
+* Add 1/4 of beaten egg whites into chocolate mixture. Fold through until incorporated – "smear" the spatular across surface to blend white lumps in – aim for 10 folds. 
+* Pour chocolate mixture into egg whites. Fold through until incorporated and no more white lumps remain – aim for 12 folds max, but ensure there are no obvious egg white patches.
+* Divide mixture between 4 small glasses or pots. Refrigerate for at least 6 hours, preferably overnight.
+* To serve, garnish with cream and chocolate shavings. Raspberries and a tiny sprig of mint for colour would also be lovely!
+
+
+* Serves: 4
+* Preparation time: 20 minutes
