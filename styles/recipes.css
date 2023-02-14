@@ -20,32 +20,20 @@ background-color: white;
 }
 
 h1 {
-  text-align: left;
+  text-align: center;
+  padding: 1cm;
   font-family: fantasy;
-  font-size: 30px;
+  font-size: 40px;
   color:rgb(46, 26, 17);
   }  
 
 h2  {
 color: rgb(46, 26, 17);
-margin-bottom: 1cm;
-margin-top: 1cm;
-margin-left: 2cm;
-margin-right: 2cm;
+padding: 1cm;
 font-size:  20px;
 font-family: fantasy;
 text-align: left;
 }
-
-h3  {
-  color: rgb(62, 35, 23);
-  margin-bottom: 12px;
-  margin-top: 12px;
-  margin-left: 0cm;
-  margin-right: 2cm;
-  font-family: fantasy;
-  font-size:  20px;
-  }
 
 p {
   color: rgb(62, 35, 23);
