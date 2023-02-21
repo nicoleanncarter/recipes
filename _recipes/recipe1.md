@@ -1,46 +1,62 @@
 ---
 title: Nutella Cheesecake
 date: 2022-10-19
-order: 1
+order: 3
 layout: recipe
 published: true
 ---
-Aute velit minim ad ut deserunt ipsum eiusmod. Laborum nisi ex qui exercitation elit dolor consectetur. Ullamco ex eiusmod ad dolor nisi adipisicing est esse. Veniam nostrud do laboris id est nulla qui nulla. Lorem velit nulla in tempor nisi laboris. Dolor culpa mollit elit anim minim Lorem.
+## I﻿ngredients
 
-![Delicious Plate of Toast, Blueberries and Bananas, covered in sticky maple syrup](../uploads/joseph-gonzalez-zcUgjyqEwe8-unsplash.jpg "Photo by Joseph Smart")
+#### BASE:
 
-## Ingredients
+* 200g/ 7oz Oreo cookies (1.5 standard packs)
+* 60g / 4 tbsp unsalted butter , melted
 
-* 3 eggs 
-* 125g dark cooking chocolate , bittersweet / 70% cocoa 
-* 10g unsalted butter
-* 125 ml cream , full fat 
-* 35 g caster sugar (superfine white sugar)
+#### NUTELLA MOUSSE FILLING:
 
+* 3 tsp gelatine powder 
+* 60 ml water
+* 500g / 1 lb cream cheese , softened
+* 60 g soft icing sugar / powdered sugar
+* 320 g Nutella 
+* 250 ml heavy/thickened cream
 
+#### NUTELLA GANACHE TOPPING:
 
-## Method
+* 125 ml heavy/thickened cream
+* 160 g Nutella
+* 50 g dark chocolate chips/semi-sweet chocolate chips
 
-1. For reliable results, work at a steady pace so your whipped egg whites and cream do not get too warm!
-2. **Separate eggs and yolks** while eggs are cold. Place whites in a large bowl and yolks in a small bowl. Leave whites while you prepare other ingredients. (Note 4)
-3. **Yolks:** Whisk yolks until uniform.
-4. **Melt chocolate and butter:** Break chocolate into pieces and place in a microwave-proof bowl with the butter. Melt in the microwave in 30 second bursts, stirring in between, until smooth. (Stir in optional flavourings at this point, but read Note 6 first). Set aside to cool slightly while you proceed with other steps.
-5. **Whip cream:** Beat cream until stiff peaks form, being careful not to over-whip (see video).
-6. **Whip whites:** Add sugar. Beat whites until firm peaks form (see video, Note 5)
+#### TOPPINGS:
 
+* 30 g hazelnuts , lightly toasted then chopped
+* 125 ml heavy/thickened cream (for whipping)
+* 3 tbsp Nutella , warmed
 
+![](../uploads/nutella-cheesecake.jpg)
 
-## F﻿old together all ingredients
+## M﻿ethod
 
-1. Fold egg yolks into cream using a rubber spatula – 8 folds max. Some streaks is fine.
-2. **Check chocolate temperature:** The chocolate should still be runny but warm (min 35C / 95F; ideal 40C / 104F). If too cool or thick, microwave in burst of 5 seconds at a time until runny.
-3. Pour chocolate into cream yolk mixture. Fold through – 8 folds max. Some streaks here are ok.
-4. Add 1/4 of beaten egg whites into chocolate mixture. Fold through until incorporated – "smear" the spatular across surface to blend white lumps in – aim for 10 folds. 
-5. Pour chocolate mixture into egg whites. Fold through until incorporated and no more white lumps remain – aim for 12 folds max, but ensure there are no obvious egg white patches.
-6. Divide mixture between 4 small glasses or pots. Refrigerate for at least 6 hours, preferably overnight.
-7. To serve, garnish with cream and chocolate shavings. Raspberries and a tiny sprig of mint for colour would also be lovely!
+1. **Prepare pan:** Flip the base of a 20cm / 8" springform pan upside down – this makes it easier to remove the finished cheesecake without the lip in the way. Butter pan base, then press on a square sheet of baking paper. Clip the pan sides onto the base, letting the excess paper overhang. Butter and line the pan sides with more baking paper.
 
+#### OREO BISCUIT BASE:
 
+1. **Blitz cookies:** Roughly break up Oreos with hands and place in food processor. Blitz until they become fine crumbs. Add melted butter, then blitz again until combined.
+2. **Press into pan:** Transfer crumbs into prepared pan, pressing evenly and firmly on to the base (I use the underside of a straight-sided, flat-bottomed cup measure to do this).
 
-* Serves: 4
-* Preparation time: 20 minutes
+#### NUTELLA MOUSSE FILLING:
+
+1. **Bloom gelatine:** Place water in a small bowl then sprinkle the gelatine powder across the surface. Stir to partly dissolve. Set aside 5 minutes. It will turn thick; this process is called blooming. Microwave the gelatine for 15 seconds to turn it into liquid, stir, then let it stand for 5 minutes to cool.
+2. **Cream cheese and Nutella mixture:** Beat cream cheese, Nutella and icing sugar until smooth. Add the cooled gelatine liquid and beat another 30 seconds.
+3. **Whip cream:** In a separate bowl, whip the cream until stiff peaks form.
+4. **Fold in cream:** Add one third of the whipped cream to the Nutella mixture and gently fold until just combined. Fold in another third of the cream the same way. Then fold in the remaining cream.
+5. **Transfer to cake pan:** Pour the mixture into the prepared tin and place back in the fridge for at least 1 hour to set.
+
+#### DECORATING
+
+1. **Nutella ganache:** Place cream, Nutella and chocolate chips into a heatproof bowl. Microwave in two 30-second bursts, stirring in between, until smooth.
+2. **Pour ganache onto cheesecake:** Allow ganache to cool for 5 minutes, then pour over the set cheesecake base. Tilt pan to spread it over the surface evenly.
+3. **Refrigerate** cheesecake at least 3 hours before sprinkling with hazelnuts (otherwise they sink into the cake!)
+4. **Decorate:** Sprinkle over hazelnuts. Pipe dollops of whipped cream around the edge, then drizzle with warm Nutella. Slice greedy-sized wedges and devour!
+
+<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/sX_Q-90Eo3Q?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
