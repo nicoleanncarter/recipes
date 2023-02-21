@@ -11,7 +11,7 @@ html {
 }
 
 main {
-  width: 80%;
+  width: 90%;
   max-width: 900px;
   padding: 1cm;
   margin: auto;
@@ -20,24 +20,24 @@ main {
 }
 
 body {
-background-color: white;
-margin-top: 6em;
+background-color: #66584a;
+margin-top: 10em;
 }
 
 header {
   position: fixed;
   top: 0;
   width: 100%;
-  background-image: ;
-  height: 6em;
+  background-color: white;
+  background-image: url(../uploads/BackgroundLogo.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 10em;
 }
 
 header .branding h1 {
-  text-align: center;
-  font-family: fantasy;
-  padding: 1em 0;
-  font-size: 30px;
-  color: white;
+display: none;
 }  
 
 header h1 a {
@@ -45,11 +45,11 @@ header h1 a {
 }
 
 .recipe-teaser {
-  border: 1px solid green;
+  border: 10px solid white;
   padding: 1cm;
-flex-basis: 300px;
-flex-grow: 1;
-margin: 1em;
+  flex-basis: 300px;
+  flex-grow: 1;
+  margin: 1em;
 }
 
 .list {
