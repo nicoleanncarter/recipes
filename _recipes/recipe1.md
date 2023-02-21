@@ -1,5 +1,5 @@
 ---
-title: Chocolate Mousse
+title: Nutella Cheesecake
 date: 2022-10-19
 order: 1
 layout: recipe
