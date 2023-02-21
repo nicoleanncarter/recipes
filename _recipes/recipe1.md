@@ -1,10 +1,14 @@
 ---
-title: Nutella Cheesecake
+title: Nutella Cheesecake (No-Bake)
 date: 2022-10-19
 order: 3
 layout: recipe
 published: true
 ---
+What’s the best way to inject the distinctive choc-hazelnut flavour of Nutella into a Nutella Cheesecake? Make it NO-BAKE. It’s the secret to preserving the Nutella flavour. Of course, a triple punch of Nutella also helps here: in the mousse-y cream cheese filling, the ganache topping and a good melty drizzle of the stuff to finish it off!
+
+![](../uploads/nutella-cheesecake.jpg)
+
 ## I﻿ngredients
 
 #### BASE:
@@ -33,7 +37,7 @@ published: true
 * 125 ml heavy/thickened cream (for whipping)
 * 3 tbsp Nutella , warmed
 
-![](../uploads/nutella-cheesecake.jpg)
+
 
 ## M﻿ethod
 
