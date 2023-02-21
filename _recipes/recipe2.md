@@ -1,5 +1,5 @@
 ---
-title: Chocolate Souffle with Salted Caramel Sauce
+title: Chocolate Muffins
 date: 2019-10-19
 order: 4
 layout: recipe
