@@ -1,3 +1,16 @@
+@font-face {
+  font-family: 'Sukar';
+  src: url('SukarRegular.eot');
+  src: url('SukarRegular.eot?#iefix') format('embedded-opentype'),
+      url('SukarRegular.woff2') format('woff2'),
+      url('SukarRegular.woff') format('woff'),
+      url('SukarRegular.ttf') format('truetype'),
+      url('SukarRegular.svg#SukarRegular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -111,11 +124,12 @@ a {
   text-decoration: none;
 }
 
+
 footer {
   text-align: center;
   font-size: 10px;
-  position: fixed;
   bottom: 0;
+  height: 20em;
   width: 100%;
   background-color: #22180e;
 }
