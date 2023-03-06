@@ -148,6 +148,7 @@ nav {
   max-width: 900px;
   padding: 1.5em;
   margin: auto;
+  align-content: center;
   margin-bottom: 0em;
   background-color: white;
   font-family: 'Sukar';
