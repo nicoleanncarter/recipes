@@ -98,12 +98,13 @@ header h1 a {
   font-family: 'Sukar';
 }
 
-
 p {
   color: #423425;
   margin-bottom: 1em;
   margin-top: 30px;
   font-family: 'Sukar';
+  overflow: auto;
+  width: 45%;
 }
 
 ul {
