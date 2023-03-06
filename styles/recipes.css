@@ -176,24 +176,22 @@ padding: 2em;
   }
   
   nav {
-    background-color: rgba(43, 13, 64, 0.84);
+    background-color: black;
     display: block;
-    /* border: 1px solid red; */
     width: 15%;
     padding: 10px;
     margin: 0;
     min-width: 120px;
     position:fixed;
-    top:6em;
+    top:3em;
     left:0;
-    z-index: 12;
-  }
+    z-index: 6;
   
   nav ul {
     list-style: none;
   }
   
   nav ul li {
-  font-size: .6rem;
+  font-size: 10px;
   }
   
