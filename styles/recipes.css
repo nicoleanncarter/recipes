@@ -104,7 +104,6 @@ p {
   margin-top: 30px;
   font-family: 'Sukar';
   overflow: auto;
-  width: 45%;
 }
 
 ul {
@@ -170,3 +169,31 @@ padding: 2em;
 .home img {
   width:100%;
   }
+
+  nav a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  nav {
+    background-color: rgba(43, 13, 64, 0.84);
+    display: block;
+    /* border: 1px solid red; */
+    width: 15%;
+    padding: 10px;
+    margin: 0;
+    min-width: 120px;
+    position:fixed;
+    top:6em;
+    left:0;
+    z-index: 12;
+  }
+  
+  nav ul {
+    list-style: none;
+  }
+  
+  nav ul li {
+  font-size: .6rem;
+  }
+  
