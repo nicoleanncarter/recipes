@@ -178,8 +178,8 @@ padding: 2em;
   nav {
     background-color: black;
     display: block;
-    width: 20%;
-    padding: 1em;
+    width: 15%;
+    padding: 0.5em;
     margin: 0;
     min-width: 120px;
     position:fixed;
@@ -191,6 +191,6 @@ padding: 2em;
   }
   
   nav ul li {
-  font-size: 8px;
+  font-size: 6px;
   }
   
