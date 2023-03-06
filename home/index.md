@@ -1,6 +1,6 @@
 ---
 title: Chocolate Decadence
-coverimage: ../uploads/bookcover.jpg
+coverimage: ../uploads/chooclate-decadence-cover.png
 permalink: /
 layout: recipeshome
 published: true
