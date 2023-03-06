@@ -8,8 +8,6 @@ This is a classic chocolate mousse **made the proper French way,** as served i
 
 ![](../uploads/chocolate-mousse_9.jpg)
 
-
-
 ## I﻿ngredients
 
 * 3 eggs (~55g/2 oz each)
@@ -18,12 +16,10 @@ This is a classic chocolate mousse **made the proper French way,** as served i
 * 125 ml cream , full fat 
 * 35 g caster sugar (superfine white sugar)
 
-#### DECORATIONS:
+### Decorations:
 
 * More whipped cream
 * Chocolate shavings 
-
-
 
 ## **M﻿ethod**
 
@@ -34,9 +30,7 @@ This is a classic chocolate mousse **made the proper French way,** as served i
 5. **Whip cream:** Beat cream until stiff peaks form, being careful not to over-whip (see video).
 6. **Whip whites:** Add sugar. Beat whites until firm peaks form.
 
-
-
-#### FOLD TOGETHER ALL INGREDIENTS:
+### Fold together all ingredients:
 
 1. Fold egg yolks into cream using a rubber spatula – 8 folds max. Some streaks is fine.
 2. **Check chocolate temperature:** The chocolate should still be runny but warm (min 35C / 95F; ideal 40C / 104F). If too cool or thick, microwave in burst of 5 seconds at a time until runny.
@@ -45,5 +39,7 @@ This is a classic chocolate mousse **made the proper French way,** as served i
 5. Pour chocolate mixture into egg whites. Fold through until incorporated and no more white lumps remain – aim for 12 folds max, but ensure there are no obvious egg white patches.
 6. Divide mixture between 4 small glasses or pots. Refrigerate for at least 6 hours, preferably overnight.
 7. To serve, garnish with cream and chocolate shavings. Raspberries and a tiny sprig of mint for colour would also be lovely!
+
+
 
 <div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/YO74CgACqEY?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
