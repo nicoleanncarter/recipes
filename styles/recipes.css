@@ -42,7 +42,7 @@ header {
   position: fixed;
   top: 0;
   width: 100%;
-  background-color: black;
+  background-color: white;
   background-image: (../uploads/BackgroundLogo.png);
   background-size: contain;
   background-repeat: no-repeat;
