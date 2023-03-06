@@ -169,14 +169,14 @@ padding: 2em;
   }
   
   nav {
-    background-color: rgba(43, 13, 64, 0.84);
+    background-color: black;
     display: block;
     width: 15%;
     padding: 10px;
     margin: 0;
     min-width: 120px;
     position:fixed;
-    top:3em;
+    top:9em;
     left:0;
     z-index: 12;
   }
@@ -189,10 +189,7 @@ padding: 2em;
   font-size: .6rem;
   }
 
-.recipehere {
-  color:white;
-  }
-
+  
     @media screen and (max-width: 700px) {
 
       nav {
