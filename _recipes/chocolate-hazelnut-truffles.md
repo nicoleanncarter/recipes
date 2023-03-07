@@ -16,10 +16,10 @@ This is a classic chocolate mousse **made the proper French way,** as served i
 * 125 ml cream , full fat 
 * 35 g caster sugar (superfine white sugar)
 
-### Decorations:
+### For decorations:
 
 * More whipped cream
-* Chocolate shavings 
+* Chocolate shavings
 
 ## **M﻿ethod**
 
