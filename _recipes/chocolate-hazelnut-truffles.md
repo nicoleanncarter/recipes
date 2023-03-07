@@ -40,6 +40,4 @@ This is a classic chocolate mousse **made the proper French way,** as served i
 6. Divide mixture between 4 small glasses or pots. Refrigerate for at least 6 hours, preferably overnight.
 7. To serve, garnish with cream and chocolate shavings. Raspberries and a tiny sprig of mint for colour would also be lovely!
 
-
-
-<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/YO74CgACqEY?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/YO74CgACqEY?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
