@@ -202,7 +202,7 @@ nav {
 #method {
 	width:100%;
 	display:block;
-	float:clear;
+	clear:both;
 }
 
 img {
@@ -234,7 +234,7 @@ img {
          
   p:has(img) {
     float:none;
-	 float:clear;
+	 clear:both;
 	 display:block;
     width:100%;
     padding: 10px;
