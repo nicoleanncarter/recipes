@@ -6,6 +6,8 @@ layout: recipe
 ---
 *This is a classic chocolate mousse **made the proper French way,** as served in **fine dining restaurants**. Less cream, more chocolate, a more intense chocolate flavour and a beautiful creamy mouth feel.*
 
+<﻿div class="ingredients">
+
 ![](../uploads/chocolate-mousse_9.jpg)
 
 ## I﻿ngredients
@@ -15,6 +17,8 @@ layout: recipe
 * 10g / 0.3 oz unsalted butter
 * 125 ml cream , full fat 
 * 35 g caster sugar (superfine white sugar)
+
+<﻿/div>
 
 ### For decorations:
 
