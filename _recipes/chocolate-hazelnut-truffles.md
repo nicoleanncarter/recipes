@@ -4,7 +4,7 @@ date: 2023-02-14T13:36:55.602Z
 order: 1
 layout: recipe
 ---
-This is a classic chocolate mousse **made the proper French way,** as served in **fine dining restaurants**. Less cream, more chocolate, a more intense chocolate flavour and a beautiful creamy mouth feel.
+*This is a classic chocolate mousse **made the proper French way,** as served in **fine dining restaurants**. Less cream, more chocolate, a more intense chocolate flavour and a beautiful creamy mouth feel.*
 
 ![](../uploads/chocolate-mousse_9.jpg)
 
