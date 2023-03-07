@@ -10,7 +10,7 @@ Molten Chocolate Cakes, also known as Lava Cakes, are warm individual-size choco
 
 ## I﻿ngredients
 
-#### Molten chocolate ganache center: 
+#### Molten chocolate ganache center:
 
 * 100 g dark chocolate chips or melts/ semi sweet chocolate chips 
 * 60 ml cream , heavy/thickened
@@ -29,8 +29,6 @@ Molten Chocolate Cakes, also known as Lava Cakes, are warm individual-size choco
 * Ice-cream or cream (highly recommended!)
 * Cocoa or icing sugar / powdered sugar , for dusting
 * Strawberries , raspberries or edible flowers, optional decoration
-
-
 
 ## Method
 
@@ -53,6 +51,4 @@ Molten Chocolate Cakes, also known as Lava Cakes, are warm individual-size choco
 10. **Turn out:** Stand for 2 minutes, then turn onto plate. Tap base then gently remove each mould.
 11. **Serve** with ice-cream or cream, dusted with cocoa powder. Decorate with strawberries!
 
-
-
-<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/s5fQEm4jS3c?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/s5fQEm4jS3c?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
