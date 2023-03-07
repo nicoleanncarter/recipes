@@ -38,4 +38,4 @@ Chocolate muffins are notorious for being dry because of the cocoa powder. But n
 10. **Lower oven, 20 minutes:** Turn oven DOWN to 190°C / 375°F (170°C fan). Bake a further 20 minutes, checking at 15 minutes. When toothpick comes out clean they're ready. Don't confuse melted chocolate with raw batter!
 11. **EAT!** Rest in muffin tin for a few minutes, then transfer to cooling rack. Allow to cool for 15 minutes before devouring!
 
-<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/xmOoFwRtLa0?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/xmOoFwRtLa0?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
