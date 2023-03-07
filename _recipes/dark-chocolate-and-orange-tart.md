@@ -51,6 +51,4 @@ layout: recipe
 10. **Turn out:** Stand for 2 minutes, then turn onto plate. Tap base then gently remove each mould.
 11. **Serve** with ice-cream or cream, dusted with cocoa powder. Decorate with strawberries!
 
-
-
-s5fQEm4jS3c
+<div class="video-box"><iframe width="100%" height="315" src="https://www.youtube.com/embed/s5fQEm4jS3c?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
