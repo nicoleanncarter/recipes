@@ -10,12 +10,12 @@ It’s as chocolatey and creamy as it looks. You can cut it into neat slices (li
 
 ## I﻿ngredients
 
-#### BASE:
+### Base:
 
 * 200g/ 7oz Oreo cookies (1.5 standard packs)
 * 60g/ 4 tbsp unsalted butter , melted
 
-#### CUSTARD:
+### Custard:
 
 * 750 ml milk , full fat
 * 2 tsp vanilla
@@ -24,22 +24,20 @@ It’s as chocolatey and creamy as it looks. You can cut it into neat slices (li
 * 50 g cornflour / cornstarch
 * 200g / 7 oz 70% cocoa chocolate , finely chopped (I use Lindt)
 
-#### FOR SERVING (OPTIONAL):
+### For Serving (optional):
 
-* [Chantilly cream](https://www.recipetineats.com/chantilly-cream-lightly-sweetened-whipped-cream/)C﻿hantilly Cream
+* C﻿hantilly Cream
 * Raspberry or strawberries
 * Icing sugar / powdered sugar, for dusting
 
-
-
 ## M﻿ethod
 
-#### PREPARATION:
+### Preperation:
 
 1. **Prepare pan**: Flip the base of a 20cm / 8" springform pan upside down – this makes it easier to remove the finished cake without the lip in the way. Grease pan base with butter, then press on a square sheet of baking paper. Clip the pan sides onto the base, letting the excess paper stick out (ease of removal later).
 2. **Preheat oven** to 180°C / 350°F (160°C fan-forced).
 
-#### CUSTARD:
+### Custard:
 
 1. **Heat the milk,** vanillaand about half the sugar in a large saucepan over medium high heat until just before boiling, stirring to dissolve the sugar.
 2. **Yolk mixture:** Place egg yolks and remaining sugar in a large bowl and whisk to combine. Add cornflour and whisk until smooth.
@@ -49,19 +47,15 @@ It’s as chocolatey and creamy as it looks. You can cut it into neat slices (li
 6. **Add chocolate** and stir until fully melted.
 7. **Cool:** Transfer into a bowl, immediately cover with cling wrap touching the surface. (You can strain if you're concerned about lumps). Set aside while preparing the base.
 
-
-
-#### BISCUIT BASE:
+### Biscuit Base:
 
 1. **Blitz cookies:** Roughly break up Oreos with hands and place in food processor. Blitz until they become fine crumbs. Add melted butter, then blitz again until combined.
 2. **Press:** Transfer crumbs into prepared pan, pressing evenly and firmly on to the base (I use the underside of a straight-sided, flat-bottomed cup measure to do this).
 
-
-
-#### BAKE:
+### Bake:
 
 1. **Bake 1 hour:** Whisk custard until smooth to loosen. Pour onto the base, smooth surface. Bake 60 minutes, rotating the cake pan at the 45 minute mark. *It will still be wobbly when you pull it out of the oven.*
 2. **Cool** for 3 hours on the counter, in the pan. Refrigerate at least 12 hours to allow the custard to fully set.
-3. **Serve:** Best to cut when fridge cold and serve at room temp (for creamiest custard!). Remove springform sides and paper, then use paper overhang to slide the cake off the base. Cut like cake and serve! Lovely with dollop of [Chantilly cream](https://www.recipetineats.com/chantilly-cream-lightly-sweetened-whipped-cream/) and a raspberry or strawberry. Dust with icing sugar to make it pretty!
+3. **Serve:** Best to cut when fridge cold and serve at room temp (for creamiest custard!). Remove springform sides and paper, then use paper overhang to slide the cake off the base. Cut like cake and serve! Lovely with dollop of Chantilly Cream [Chantilly cream](https://www.recipetineats.com/chantilly-cream-lightly-sweetened-whipped-cream/) and a raspberry or strawberry. Dust with icing sugar to make it pretty!
 
 <div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/m-ghbf0FlEk?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
