@@ -5,7 +5,7 @@ order: 4
 layout: recipe
 published: true
 ---
-Chocolate muffins are notorious for being dry because of the cocoa powder. But not these!
+*Chocolate muffins are notorious for being dry because of the cocoa powder. But not these!*
 
 ![](../uploads/chocolate-muffins_15.webp)
 
