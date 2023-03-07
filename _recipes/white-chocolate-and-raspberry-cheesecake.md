@@ -56,7 +56,7 @@ layout: recipe
 
 1. **Bake 1 hour:** Whisk custard until smooth to loosen. Pour onto the base, smooth surface. Bake 60 minutes, rotating the cake pan at the 45 minute mark. *It will still be wobbly when you pull it out of the oven.*
 2. **Cool** for 3 hours on the counter, in the pan. Refrigerate at least 12 hours to allow the custard to fully set.
-3. **Serve:** Best to cut when fridge cold and serve at room temp (for creamiest custard!). Remove springform sides and paper, then use paper overhang to slide the cake off the base. Cut like cake and serve! Lovely with dollop of Chantilly Cream [Chantilly cream](https://www.recipetineats.com/chantilly-cream-lightly-sweetened-whipped-cream/) and a raspberry or strawberry. Dust with icing sugar to make it pretty!
+3. **Serve:** Best to cut when fridge cold and serve at room temp (for creamiest custard!). Remove springform sides and paper, then use paper overhang to slide the cake off the base. Cut like cake and serve! Lovely with dollop of Chantilly Cream [](https://www.recipetineats.com/chantilly-cream-lightly-sweetened-whipped-cream/)and a raspberry or strawberry. Dust with icing sugar to make it pretty!
 
 
 
