@@ -109,9 +109,8 @@ p {
 
 ul {
   color: #423425;
-  margin-bottom: 1cm;
-  margin-top: 1cm;
-  margin-right: 2cm;
+  padding: 1em;
+  margin-left: 1em;
   font-family: 'Sukar';
 }
 
@@ -230,10 +229,11 @@ nav {
     flex-wrap: wrap;
     justify-content: space-around;
   }
-  
-   .video-box {
+
+  .video-box {
     width: 100%;
     text-align: center;
+    width: fit-content;
   }
   
 }
@@ -241,7 +241,6 @@ nav {
 .video-box {
   width: 100%;
   text-align: center;
-  width: fit-content;
 }
 
 .hide-recipes {
