@@ -161,7 +161,7 @@ iframe {
 .home {
   width: 50%;
   float: right;
-  margin: 2em auto;
+  margin-left:10px;
 }
 
   p:has(img) {
@@ -257,6 +257,7 @@ img {
 		float:none;
 		width:100%;
 		display:block;
+		margin-bottom:2em;
 	}
   
 }
