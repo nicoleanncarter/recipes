@@ -24,7 +24,7 @@ html {
 }
 
 main {
-  width: 90%;
+  width: 100%;
   max-width: 900px;
   padding: 1.5em;
   padding-top: 1em;
@@ -234,8 +234,8 @@ img {
          
   p:has(img) {
     float:none;
-	 clear:both;
-	 display:block;
+	clear:both;
+	display:block;
     width:100%;
     padding: 0px;
     margin-left: 0;
