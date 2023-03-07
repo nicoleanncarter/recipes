@@ -159,8 +159,6 @@ padding: 2em;
   p:has(img) {
     float:right;
     width: 50%;
-    padding: 10px;
-    margin-left: 0;
   }
 
   nav a {
