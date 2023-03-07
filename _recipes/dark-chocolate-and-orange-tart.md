@@ -4,7 +4,7 @@ date: 2023-02-14T13:35:05.631Z
 order: 2
 layout: recipe
 ---
-Molten Chocolate Cakes, also known as Lava Cakes, are warm individual-size chocolate cakes with oozing chocolate centres.
+*Molten Chocolate Cakes, also known as Lava Cakes, are warm individual-size chocolate cakes with oozing chocolate centres.*
 
 ![](../uploads/chocolate-lava-cake_9.jpg)
 
