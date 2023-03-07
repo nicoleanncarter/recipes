@@ -31,19 +31,13 @@ What’s the best way to inject the distinctive choc-hazelnut flavour of Nutella
 * 160 g Nutella
 * 50 g dark chocolate chips/semi-sweet chocolate chips
 
-
-
 ### Toppings:
 
 * 30 g hazelnuts , lightly toasted then chopped
 * 125 ml heavy/thickened cream (for whipping)
 * 3 tbsp Nutella , warmed
 
-
-
 ## M﻿ethod
-
-
 
 1. **Prepare pan:** Flip the base of a 20cm / 8" springform pan upside down – this makes it easier to remove the finished cheesecake without the lip in the way. Butter pan base, then press on a square sheet of baking paper. Clip the pan sides onto the base, letting the excess paper overhang. Butter and line the pan sides with more baking paper.
 
@@ -67,6 +61,4 @@ What’s the best way to inject the distinctive choc-hazelnut flavour of Nutella
 3. **Refrigerate** cheesecake at least 3 hours before sprinkling with hazelnuts (otherwise they sink into the cake!)
 4. **Decorate:** Sprinkle over hazelnuts. Pipe dollops of whipped cream around the edge, then drizzle with warm Nutella. Slice greedy-sized wedges and devour!
 
-
-
-<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/sX_Q-90Eo3Q?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/sX_Q-90Eo3Q?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
