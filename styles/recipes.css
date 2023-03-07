@@ -226,10 +226,12 @@ nav {
     margin-left: 0;
   }
 
-.list {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
+  .list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
 }
 
 .video-box {
@@ -237,7 +239,7 @@ nav {
   text-align: center;
   width: fit-content;
 }
-  
-  .hide-recipes {
+
+.hide-recipes {
   padding: 0;
 }
