@@ -4,7 +4,7 @@ date: 2023-02-14T13:34:15.659Z
 order: 5
 layout: recipe
 ---
-It’s as chocolatey and creamy as it looks. You can cut it into neat slices (like… cake!). But when you eat it, it’s gloriously creamy. It’s luxurious, with a rich mouthfeel. It is a real custard, after all, nothing like the fake stuff sold in cartons at the store which is a sad imitation of the real deal. But this is not overly rich and definitely not overly sweet. Decadent enough for special occasions, easy enough to make for a morning tea at work. 
+*It’s as chocolatey and creamy as it looks. You can cut it into neat slices (like… cake!). But when you eat it, it’s gloriously creamy. It’s luxurious, with a rich mouthfeel. It is a real custard, after all, nothing like the fake stuff sold in cartons at the store which is a sad imitation of the real deal. But this is not overly rich and definitely not overly sweet. Decadent enough for special occasions, easy enough to make for a morning tea at work.* 
 
 ![](../uploads/chocolate-custard-cake_7-close-up.webp)
 
