@@ -27,8 +27,8 @@ main {
   width: 90%;
   max-width: 900px;
   padding: 1.5em;
-  padding-top: 0;
-  padding-bottom: 0;
+  padding-top: 1em;
+  padding-bottom: 1em;
   margin: auto;
   margin-bottom: 0em;
   background-color: white;
@@ -62,11 +62,12 @@ header h1 a {
 }
 
 .recipe-teaser {
-  border: 10px solid white;
-  padding: 1em;
+  border: 10px solid #5d493447;
+  border-style: double;
+  padding: 2em;
   flex-basis: 300px;
   flex-grow: 1;
-  margin: 1em;
+  margin: 2em;
 }
 
 .recipe-teaser h1 {
@@ -74,7 +75,7 @@ header h1 a {
   font-family: 'Sukar';
   flex-basis: 300px;
   flex-grow: 1;
-  margin: 1cm;
+  margin: 1em;
   padding: 1em;
 }
 
@@ -159,8 +160,11 @@ padding: 2em;
   margin: 2em auto;
 }
 
-.home img {
-  width:100%;
+  p:has(img) {
+    float:right;
+    width:100%;
+    padding: 10px;
+    margin-left: 0;
   }
 
   nav a {
@@ -168,7 +172,7 @@ padding: 2em;
     text-decoration: none;
   }
   
-  nav {
+nav {
     background-color: black;
     display: block;
     width: 15%;
@@ -190,31 +194,38 @@ padding: 2em;
   }
 
   
-    @media screen and (max-width: 700px) {
+@media screen and (max-width: 700px) {
 
-      nav {
-      margin:0;
-      position: static;
-      width:100%;
-      }
+  main {
+    width: 100%;
+    padding: 1em;
+    margin: 0;
+    }
+
+ nav {
+  margin:0;
+  position: static;
+  width:100%;
+  }
       
-      nav ul {
-      font-size:1rem;
-      }
+  nav ul {
+  font-size: 1rem;
+  }
       
-        main {
-        width: 100%;
-        }
-      
-        body {
-        background-color: white;
-        padding-top: 5em;
-      }
-      
-      
-      p:has(img) {
-        float:none;
-        width:100%;
-        padding: 10px;
-  margin-left: 0;
-      }
+  body {
+  background-color: white;
+  padding-top: 5em;
+  }
+         
+  p:has(img) {
+    float:none;
+    width:100%;
+    padding: 10px;
+    margin-left: 0;
+  }
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
