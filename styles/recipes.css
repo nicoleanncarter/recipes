@@ -202,9 +202,12 @@ nav {
 #method {
 	width:100%;
 	display:block;
+	float:clear;
 }
 
-img {display:block;}
+img {
+	display:block;
+}
 
   
 @media screen and (max-width: 700px) {
@@ -231,6 +234,8 @@ img {display:block;}
          
   p:has(img) {
     float:none;
+	 float:clear;
+	 display:block;
     width:100%;
     padding: 10px;
     margin-left: 0;
