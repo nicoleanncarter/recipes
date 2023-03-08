@@ -122,6 +122,10 @@ img {
   width: 100%;
 }
 
+.cover {
+  padding-left: 1em;
+}
+
 a {
   text-decoration: none;
   color: black;
