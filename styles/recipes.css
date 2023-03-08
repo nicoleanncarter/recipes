@@ -246,6 +246,14 @@ img {
     flex-wrap: wrap;
     justify-content: space-around;
   }
+	
+#method {
+	width: 100%
+	display: block;
+	clear: both;
+	border-top: 1px dotted black;
+	padding-top: 1em;
+}
 
   .video-box {
     width: 100%;
