@@ -137,25 +137,25 @@ footer {
   margin-top: 0px;
 }
 
-.video-box {
-  width: 100%;
-  max-width: 900px;
-  padding: 1.5em;
-  margin: auto;
-  margin-bottom: 0em;
-  background-color: white;
-  font-family: 'Sukar';
-}
+/* .video-box { */
+/*   width: 100%; */
+/*   max-width: 900px; */
+/*   padding: 1.5em; */
+/*   margin: auto; */
+/*   margin-bottom: 0em; */
+/*   background-color: white; */
+/*   font-family: 'Sukar'; */
+/* } */
 
 .post-content ol {
 padding: 2em;
 }
 
-iframe {
-	aspect-ratio: 16 / 9;
-	height: 100%;
-	max-width:560px;
-}
+/* iframe { */
+/* 	aspect-ratio: 16 / 9; */
+/* 	height: 100%; */
+/* 	max-width:560px; */
+/* } */
 
 .home {
   width: 50%;
@@ -289,7 +289,7 @@ display:block;
   
 }
 
-.video-box {
-  width: 100%;
-  text-align: center;
-}
+/* .video-box { */
+/*   width: 100%; */
+/*   text-align: center; */
+/* } */
