@@ -7,7 +7,7 @@ published: true
 ---
 *What’s the best way to inject the distinctive choc-hazelnut flavour of Nutella into a Nutella Cheesecake? Make it NO-BAKE. It’s the secret to preserving the Nutella flavour. Of course, a triple punch of Nutella also helps here: in the mousse-y cream cheese filling, the ganache topping and a good melty drizzle of the stuff to finish it off!*
 
-![](../uploads/nutella-cheesecake.jpg)
+![](../uploads/nutella-cheesecake_2.webp)
 
 ## I﻿ngredients
 
@@ -60,7 +60,5 @@ published: true
 2. **Pour ganache onto cheesecake:** Allow ganache to cool for 5 minutes, then pour over the set cheesecake base. Tilt pan to spread it over the surface evenly.
 3. **Refrigerate** cheesecake at least 3 hours before sprinkling with hazelnuts (otherwise they sink into the cake!)
 4. **Decorate:** Sprinkle over hazelnuts. Pipe dollops of whipped cream around the edge, then drizzle with warm Nutella. Slice greedy-sized wedges and devour!
-
-
 
 <div class="video-box"><iframe width="100%" height="315" src="https://www.youtube.com/embed/sX_Q-90Eo3Q?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
