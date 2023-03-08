@@ -199,17 +199,16 @@ nav {
   font-size: 10px;
   }
 
-#method {
-    clear:both;
-    display:block;
-    width:100%;
-    border-top: 10px dotted black;
-    padding-top: 1em;
-  }
-
-
 img {
 	display:block;
+}
+
+#method {
+  clear:both;
+  display:block;
+  width:100%;
+  border-top: 0.6em double #5d493447;
+  padding-top: 1em;
 }
 
   
@@ -250,14 +249,6 @@ img {
     justify-content: space-around;
   }
 	
-  #method {
-    clear:both;
-    display:block;
-    width:100%;
-    border-top: 1em dotted black;
-    padding-top: 1em;
-  }
-
   .video-box {
     width: 100%;
     text-align: center;
