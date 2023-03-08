@@ -108,7 +108,7 @@ p {
 }
 
 ul {
-  color: #423425;
+  color: #423425;0
   padding: 1em;
   margin-left: 1em;
   font-family: 'Sukar';
@@ -196,7 +196,7 @@ nav {
   }
   
   nav ul li {
-  font-size: 10px;
+  font-size: 16px;
   }
 
 img {
@@ -220,24 +220,24 @@ img {
     margin: 0;
     }
 
- nav {
-  margin:0;
-  position: static;
-  width:100%;
+  nav {
+    margin:0;
+    position: static;
+    width:100%;
   }
       
   nav ul {
-  font-size: 1rem;
+    font-size: 1rem;
   }
       
   body {
-  background-color: white;
+    background-color: white;
   }
          
   p:has(img) {
     float:none;
-	clear:both;
-	display:block;
+	  clear:both;
+	  display:block;
     width:100%;
     padding: 0px;
     margin-left: 0;
