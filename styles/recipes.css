@@ -288,7 +288,9 @@ h3 {
 	margin-bottom:2em;
 	margin-left:0;
 }
-  
+	
+.cover {
+	padding: 0;
 }
 
 /* .video-box { */
