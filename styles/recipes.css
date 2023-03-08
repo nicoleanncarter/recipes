@@ -129,12 +129,12 @@ a {
 
 footer {
   text-align: center;
-  font-size: 15px;
+  font-size: 10px;
   bottom: 0;
-  height: 2em;
+  height: 3em;
   width: 100%;
   background-color: white;
-  margin-top: 0px;
+  margin-top: -20px;
 }
 
 /* .video-box { */
