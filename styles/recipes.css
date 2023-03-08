@@ -199,7 +199,7 @@ nav {
   font-size: 10px;
   }
 
-  h2 #method {
+#method {
     clear:both;
     display:block;
     width:100%;
