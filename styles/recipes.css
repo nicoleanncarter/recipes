@@ -101,7 +101,7 @@ header h1 a {
 p {
   color: #423425;
   margin-bottom: 1em;
-  margin-top: 0px;
+  margin-top: 1em;
   font-family: 'Sukar';
   overflow: auto;
 }
@@ -223,12 +223,7 @@ display:block;
   padding-top: 1em;
 }
 
-#text {
-padding-top: 2em;
-font-size: 22px;
-}
-
-  .video-box {
+.video-box {
 	position: relative;
 	padding-bottom: 56.25%;
 	padding-top: 30px;
@@ -238,7 +233,7 @@ font-size: 22px;
   }
 
   	
-  .video-box iframe {
+.video-box iframe {
     position: absolute;
     top: 0;
     left: 0;
