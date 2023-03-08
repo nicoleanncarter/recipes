@@ -6,7 +6,7 @@ layout: recipeshome
 published: true
 date: 2023-01-31T15:38:56.154Z
 ---
-## Welcome
+## Welcome to Chocolate Decadence
 
 *Chocolate Decadence* is t﻿he home of luxury chocolate recipes teaching you how to make your chocolate dreams become a reality. Learn how to temper, mould and decorate like a pro with the complete guide to everything chocolate.
 
